@@ -1,0 +1,19 @@
+{
+  "name": "js_basic_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeWithDragos/js_basic_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeWithDragos/js_basic_test/issues"
+  },
+  "homepage": "https://github.com/CodeWithDragos/js_basic_test#readme"
+}
