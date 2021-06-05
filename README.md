@@ -10,4 +10,4 @@ Check out a basic example of using [JEST](https://jestjs.io/) to test javascript
 
 `npm test`
 
-The test are written using [Jest] (https://jestjs.io/)
+The test are written using [Jest](https://jestjs.io/)
