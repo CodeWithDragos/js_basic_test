@@ -1,6 +1,5 @@
 const sum = require("./index")
 
-
 describe("Sums two numbers", () =>{
     test("It can sum 3 and 3 and returns 6", () => {
         const result = sum(3, 3)
